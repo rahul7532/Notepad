@@ -13,6 +13,10 @@ note pad application built with:
     Setup
     Create a DB with the name "notepad_development"
     
+    In the root directory create
+    a .env file as follows:
+    LOCAL_DATABASE_PASSWORD = YOUR_DB_PASSWORD
+
     Install dependencies from terminal
     npm install
 
